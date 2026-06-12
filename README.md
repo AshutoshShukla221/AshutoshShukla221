@@ -1,6 +1,6 @@
 # Hi there, I'm Ashutosh 👋
 
-### Python Developer | NLP Enthusiast | Anime Aesthetic Lover
+### Python Developer | NLP Enthusiast
 
 I build projects around:
 
